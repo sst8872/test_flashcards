@@ -42,5 +42,6 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "https":"//sst8872.github.io/test_flashcards"
+  "homepage": "https://sst8872.github.io/test_flashcards"
+
 }
